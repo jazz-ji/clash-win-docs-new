@@ -23,3 +23,6 @@
 
 `MATCH`需要位于规则列表末尾
 :::
+bing.com
+www.bing.com
+cn.bing.com
